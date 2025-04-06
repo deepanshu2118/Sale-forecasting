@@ -28,5 +28,7 @@ The system leverages historical sales data and external factors to generate fore
 git clone https://github.com/yourusername/sales-forecasting.git
 cd sales-forecasting
 
+
+2.Create and activate a virtual environment:
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
