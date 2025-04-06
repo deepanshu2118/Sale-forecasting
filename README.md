@@ -19,3 +19,12 @@ The system leverages historical sales data and external factors to generate fore
 - Future sales predictions
 - Feature importance analysis
 
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/sales-forecasting.git
+cd sales-forecasting
+
