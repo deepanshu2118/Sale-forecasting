@@ -25,10 +25,14 @@ The system leverages historical sales data and external factors to generate fore
 1. Clone the repository:
 
 
-git clone https://github.com/yourusername/sales-forecasting.git
+git clone https://github.com/deepanshu2118/sales-forecasting.git
 cd sales-forecasting 
 
 2. Create and activate a virtual environment:
 
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
+
+3. Install dependencies:
+pip install -r requirements.txt
