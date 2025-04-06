@@ -26,6 +26,7 @@ The system leverages historical sales data and external factors to generate fore
 
 
 git clone https://github.com/deepanshu2118/sales-forecasting.git
+
 cd sales-forecasting 
 
 2. Create and activate a virtual environment:
